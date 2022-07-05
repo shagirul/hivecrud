@@ -4,6 +4,7 @@ import 'package:gijutsu_sol/screens/datalist.dart';
 import 'package:gijutsu_sol/widget/textfield.dart';
 import 'package:hive/hive.dart';
 
+//shagirul
 // ignore: use_key_in_widget_constructors
 class HomePage extends StatefulWidget {
   @override
